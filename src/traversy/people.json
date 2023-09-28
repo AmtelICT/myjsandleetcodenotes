@@ -1,0 +1,48 @@
+{
+    "people":[
+        {
+            "name":"adam",
+            "age":10,
+            "address":{
+                "state":"Nakuru",
+                "estate":"kiamunyi"
+
+            },
+            "siblings": [ "sumaya",
+                           "hafsa",
+                           "sundus"
+
+                        ],
+        },
+
+        {
+            "name":"king",
+            "age":30,
+            "address":{
+                "state":"Nakuru2",
+                "estate":"kiamunyi2"
+
+            },
+            "siblings": [ "sumaya2",
+                           "hafsa2",
+                           "sundus2"
+
+                        ],
+
+        },
+        {
+            "name":"okash",
+            "age":15,
+            "address":{
+                "state":"Nakuru3",
+                "estate":"kiamunyi3"
+
+            },
+            "siblings": [ "sumaya3",
+                           "hafsa3",
+                           "sundus3"
+
+                        ],
+        }
+    ]
+}

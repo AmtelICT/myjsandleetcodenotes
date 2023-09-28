@@ -1,0 +1,19 @@
+{
+    "people":[
+        {
+            "name":"adam",
+            "age":10
+        },
+        {
+            "name":"king",
+            "age":16
+
+        },
+        {
+            "name":"adamse",
+            "age":17
+
+        }
+    ]
+
+}
