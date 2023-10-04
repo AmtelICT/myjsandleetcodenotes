@@ -1,5 +1,16 @@
 //MERGE SORT
 
+
+//Algorithm Logic
+
+//1. Split the array into sub array until the sub arrays have only 1 element(you can use median until subarr[i]=1 elemt)
+//2. Compare the single element subarrays individually
+// 3. Repeat for all sub arrays
+//4. Merge the sub arrays to single sorted array.
+
+
+
+//Vishwas Code
 function mergesort(arr) {
     if (arr.length < 2) {
       return arr

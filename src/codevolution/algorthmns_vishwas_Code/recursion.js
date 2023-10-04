@@ -1,7 +1,14 @@
+//RECURSION  -- It is a problem solving technique where solutions depends on breaking same problem into
+//smaller pieces of the same problem
+
+// Fn = f n-1 + fn-2
+// f 0 -0   fbase 1 = 1
+//  so f base 2 =1
 
 
 
-
+//Big O of recursive fibonnacci = BIGO(2^n)
+//Big O of recursive factorial = BIGO(n)
 
 //FACTORIAL RECURSION
 

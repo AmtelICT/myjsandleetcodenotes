@@ -1,7 +1,18 @@
 
 
-CARTESIAN PRODUCT 
+//CARTESIAN PRODUCT 
 
+
+//question: given two finite sets find the cartesian product?
+
+
+//Algorithm Logic
+
+//1. it the pair product set e.g cartesian product of (a,b) where a=[2,3] and b=[4,6]
+     //cart will be [2,4],[2,6],[3,4],[3,6]
+
+
+//vishwas code
 function cartesianProduct(arr1, arr2) {
     const result = []
     for (let i = 0; i < arr1.length; i++) {
